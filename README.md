@@ -45,37 +45,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TODO_USUARIO&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-### 🤝 Contacto
+## 🤝 Contáctame
 
 <p align="center">
-  <!-- TODO: Actualiza los enlaces con tus perfiles reales -->
-  <a href="https://www.linkedin.com/in/TODO_LINKEDIN" target="_blank">
-    <img alt="LinkedIn" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://linkedin.com/in/TODO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:TODO_CORREO@ejemplo.com">
-    <img alt="Email" width="26" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />
+  <a href="mailto:TODO_CORREO" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/TODO_TWITTER" target="_blank">
-    <img alt="Twitter/X" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <a href="https://x.com/TODO_X" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/TODO_INSTAGRAM/" target="_blank">
-    <img alt="Instagram" width="26" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://instagram.com/TODO_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-### 🔖 Notas rápidas
-
-* Español · Front‑End Junior · Ingeniería de Software con IA.
-* Resalta habilidades: **HTML, CSS, JavaScript**.
-* Incluye secciones listas para proyectos, métricas, trofeos y contacto.
-
-
----
+⭐️ *Gracias por visitar mi perfil* 💜
 
 *Última edición: 15/08/2025*
 
