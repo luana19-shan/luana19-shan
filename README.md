@@ -9,10 +9,6 @@
 * 🧩 Me gusta escribir código limpio, accesible y bien documentado.
 * 📍 Perú · Español (nativo)
 
-> *Este README es para tu perfil de GitHub (repositorio `tu-usuario/tu-usuario`). Reemplaza los placeholders marcados como `TODO`.*
-
----
-
 ### 🧰 Stack
 
 <p align="center">
