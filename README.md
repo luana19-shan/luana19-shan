@@ -37,7 +37,7 @@
 ## 📊 Mis estadísticas de lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TODO_USUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaflores&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ## 🤝 Contáctame
