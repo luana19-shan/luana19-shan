@@ -34,22 +34,6 @@
 
 ---
 
-### 🚀 Proyectos (sample)
-
-* **Weather Now** — App del clima con `fetch` y cache local.
-  *Rol:* Front‑End · *Focus:* API, estados simples, responsive.
-  **Demo:** `https://TODO-tu-dominio.dev/weather` · **Repo:** `https://github.com/TODO_USUARIO/weather-now`
-
-* **TaskFlow** — To‑Do PWA con `localStorage` y atajos de teclado.
-  *Rol:* Front‑End · *Focus:* UX, accesibilidad y performance.
-  **Demo:** `https://TODO-tu-dominio.dev/taskflow` · **Repo:** `https://github.com/TODO_USUARIO/taskflow`
-
-* **UI Components Kit** — Componentes accesibles (modales, tabs, dropdowns) sin dependencias.
-  *Rol:* Front‑End · *Focus:* Semántica, ARIA y vanilla JS.
-  **Demo:** `https://TODO-tu-dominio.dev/ui-kit` · **Repo:** `https://github.com/TODO_USUARIO/ui-components`
-
----
-
 ### 📊 Métricas
 
 <p align="center">
@@ -80,22 +64,6 @@
   <a href="https://www.instagram.com/TODO_INSTAGRAM/" target="_blank">
     <img alt="Instagram" width="26" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
-</p>
-
----
-
-### 📈 Contador de visitas
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/TODO_USUARIO/count.svg" />
-</p>
-
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TODO_USUARIO&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </p>
 
 ---
