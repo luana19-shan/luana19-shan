@@ -34,15 +34,10 @@
 
 ---
 
-### 📊 Métricas
+## 📊 Mis estadísticas de lenguajes
 
 <p align="center">
-  <!-- Reemplaza TODO_USUARIO por tu usuario real de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TODO_USUARIO&theme=cobalt&show_icons=true&count_private=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TODO_USUARIO&theme=dark&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TODO_USUARIO&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TODO_USUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ## 🤝 Contáctame
